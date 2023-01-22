@@ -13,7 +13,7 @@ export default function Home() {
         titulo="Classificados Tech"
         descricao="Compre diversos tipos de produtos no melhor site do Brasil!"
         imagem={relogio}
-        className={styles.Header}
+        className={styles.header}
       />
       <div className={styles.categorias}>
         <div className={styles["categorias-title"]}>
